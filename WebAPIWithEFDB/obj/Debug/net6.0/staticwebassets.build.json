@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4Ls6hYxdaEqeQJVRKgjmTL3/dlwcJr124CvsZ3Y4JGQ=",
+  "Source": "WebAPIWithEFDB",
+  "BasePath": "_content/WebAPIWithEFDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
